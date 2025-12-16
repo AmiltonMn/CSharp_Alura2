@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CSharp_Alura2/CSharp_Alura2.csproj" />
+  <Project Path="Musicas/Musicas.csproj" Id="2746b185-ea26-40b0-b083-6afbab56fd4c" />
 </Solution>
