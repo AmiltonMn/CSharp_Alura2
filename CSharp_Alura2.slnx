@@ -1,4 +1,8 @@
 <Solution>
-  <Project Path="CSharp_Alura2/CSharp_Alura2.csproj" />
-  <Project Path="Musicas/Musicas.csproj" Id="2746b185-ea26-40b0-b083-6afbab56fd4c" />
+  <Project Path="05-Strings/05-Strings.csproj" Id="9f4383f4-f22e-4983-aac4-4b8a89c2dbd0" />
+  <Project Path="06-ExpressoesRegulares/06-ExpressoesRegulares.csproj" Id="9bc9f325-38d0-45f9-8377-cc361f5cae88" />
+  <Project Path="CSharp_Alura2/01-CSharp_Alura2.csproj" />
+  <Project Path="LINQ/04-LINQ.csproj" Id="89a828b6-0548-4866-9c28-76533af52992" />
+  <Project Path="Musicas/02-Musicas.csproj" Id="2746b185-ea26-40b0-b083-6afbab56fd4c" />
+  <Project Path="Projeto3/03-Projeto3.csproj" Id="63dc16d1-10ff-4fe5-9fdb-b06b18c4d5e8" />
 </Solution>
